@@ -1,0 +1,57 @@
+1
+//- - - - - - - - -//
+# Header
+
+#hashtag in sentence.
+//- - - - - - - - -//
+<h1>Header</h1>
+<p><a href="/tags/hashtag">#hashtag</a> in sentence.</p>
+//= = = = = = = = = = = = = = = = = = = = = = = =//
+2
+//- - - - - - - - -//
+# Header
+
+#hashtag #at #eol
+//- - - - - - - - -//
+<h1>Header</h1>
+<p><a href="/tags/hashtag">#hashtag</a> <a href="/tags/at">#at</a> <a href="/tags/eol">#eol</a></p>
+//= = = = = = = = = = = = = = = = = = = = = = = =//
+3
+//- - - - - - - - -//
+#hashtags
+#on
+#multiple
+#lines
+//- - - - - - - - -//
+<p><a href="/tags/hashtags">#hashtags</a>
+<a href="/tags/on">#on</a>
+<a href="/tags/multiple">#multiple</a>
+<a href="/tags/lines">#lines</a></p>
+//= = = = = = = = = = = = = = = = = = = = = = = =//
+3
+//- - - - - - - - -//
+#hashtags
+
+#in
+
+#multiple
+
+#blocks
+//- - - - - - - - -//
+<p><a href="/tags/hashtags">#hashtags</a></p>
+<p><a href="/tags/in">#in</a></p>
+<p><a href="/tags/multiple">#multiple</a></p>
+<p><a href="/tags/blocks">#blocks</a></p>
+//= = = = = = = = = = = = = = = = = = = = = = = =//
+4
+//- - - - - - - - -//
+_#hashtags_ *#with* **#formatting** __#characters__
+//- - - - - - - - -//
+<p><em><a href="/tags/hashtags">#hashtags</a></em> <em><a href="/tags/with">#with</a></em> <strong><a href="/tags/formatting">#formatting</a></strong> <strong><a href="/tags/characters">#characters</a></strong></p>
+//= = = = = = = = = = = = = = = = = = = = = = = =//
+4
+//- - - - - - - - -//
+#😁
+//- - - - - - - - -//
+<p><a href="/tags/😁">#😁</a></p>
+//= = = = = = = = = = = = = = = = = = = = = = = =//
